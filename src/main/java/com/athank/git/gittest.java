@@ -11,6 +11,8 @@ public class gittest {
         System.out.println("push test1");
         System.out.println("pull test1");
         System.out.println("hey bro");
+        System.out.println("nice to see u");
+
 
 
 
