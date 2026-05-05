@@ -9,6 +9,8 @@ public class gittest {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("push test1");
+        System.out.println("pull test1");
+
 
 
     }
